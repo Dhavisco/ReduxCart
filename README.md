@@ -1,4 +1,4 @@
-# Food Order App
+ReduxCart
 
 This project is a Cart application that allows users to select items, check prices, and add or remove from their cart. The items are then stored in a realtime database.
 

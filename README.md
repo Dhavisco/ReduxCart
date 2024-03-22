@@ -36,6 +36,7 @@ Use the minus (-) button
 
 ## Technologies Used
 - React.js
+- Redux
 - JavaScript
 - HTML
 - CSS

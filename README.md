@@ -1,6 +1,6 @@
 # Food Order App
 
-This project is a food ordering application that allows users to select their cuisines, check prices, and place orders. The orders are then sent to the respective restaurants for preparation.
+This project is a Cart application that allows users to select items, check prices, and add or remove from their cart. The items are then stored in a realtime database.
 
 ## Table of Contents
 - Features
@@ -50,7 +50,7 @@ Use the minus (-) button
 
 ## Future Enhancements
 
-- Add Total Amount of Books
+- Add Total Amount of Items
 - Better UI and Logo
 
 ## Contributing
